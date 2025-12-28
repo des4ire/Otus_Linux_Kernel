@@ -1,2 +1,0 @@
-obj-m += HW_02_hello_world.o
-HW_02_hello_world-y := hw2.o
